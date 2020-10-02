@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=200&section=header&text=Hi%Guys&fontSize=60&fontAlign=43)
+![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=200&section=header&text=Hi%Guys&fontSize=60&fontAlign=41)
 
 
 01001000 01101001 00001010 01001101 01111001 00100000 01101110 01100001 01101101 01100101 00100000 01101001 01110011 
